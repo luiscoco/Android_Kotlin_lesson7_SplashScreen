@@ -1,2 +1,9 @@
-# Android_Kotlin_lesson7_SplashScreen
-Let's create a Splash Screen
+# How to create a Splash Screen with Android Compose
+
+## 1. 
+
+
+## 2.
+
+
+## 3. 
